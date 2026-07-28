@@ -1,17 +1,17 @@
 {
-  "build": 1,
-  "min_exe_build": 1,
+  "build": 2,
+  "min_exe_build": 2,
   "files": [
     {
       "name": "forge.html",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/forge.html.gz",
-      "sha256": "21a2f6dcd00919fd4dc877cb3a25c173d6ac1ddfaf65b9b7979a4555e403fdc7",
+      "sha256": "dd6d5be26bccb51d373808c6115b739a1674937c669c81f1ecc4addbb6b5ac14",
       "gzip": true
     },
     {
       "name": "skin_swapper.py",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/skin_swapper.py.gz",
-      "sha256": "921744a39025d4b3499aad2985712de124ff39869e3e95477d27e6addba4a9ad",
+      "sha256": "55c9947be727ce61250ed0f8a840ace06d5b4c4c1c0eb54e53881c4f884fe886",
       "gzip": true
     },
     {
