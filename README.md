@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/30437261/README.md)
-# POP·1 Skin Forge
+# POP·1 Forge
 
 A desktop toolkit for personalizing your own copy of **Population: One** — weapon
 skins, billboards, sounds, and reticles. Everything it changes is on **your own PC,
