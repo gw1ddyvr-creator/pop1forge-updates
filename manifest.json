@@ -1,11 +1,11 @@
 {
-  "build": 14,
+  "build": 15,
   "min_exe_build": 1,
   "files": [
     {
       "name": "forge.html",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/forge.html.gz",
-      "sha256": "3be42b66dc65362d69767fd846f9fd829ac628f028887b2f02554434b20101ff",
+      "sha256": "81f9a119c9cdc4a620cbf7ee6c864417a56d352bca872bf6334d0d67f3171100",
       "gzip": true
     },
     {
@@ -17,7 +17,7 @@
     {
       "name": "fmod_bank.py",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/fmod_bank.py.gz",
-      "sha256": "fb82f1a7d00418aa438e4a2ccbe85344e96c89ab2e928ee5831646829c4269a6",
+      "sha256": "eec7d080e91a7a4b9f32d7efb9935f39f346d9a710bbc95b8dcc367162cb3375",
       "gzip": true
     },
     {
@@ -29,7 +29,7 @@
     {
       "name": "sound_match.py",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/sound_match.py.gz",
-      "sha256": "dd2731bf913d80893ac9ef6e9bf730443f012e469d9af99817b29605da97ce66",
+      "sha256": "a4dfbb6070a1260ee9bb639a31f48489ab0e21546d67392e561a2d661db54a2c",
       "gzip": true
     },
     {
@@ -41,13 +41,19 @@
     {
       "name": "inject_mesh.py",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/inject_mesh.py.gz",
-      "sha256": "8d5b19260f0f8a61318af20a42e3aea1c454972e4cf9dacbfdad25c696926276",
+      "sha256": "8db50da5ba884a3d9c4b2587359a08fa10868662bec888448976c9de223e9f79",
       "gzip": true
     },
     {
       "name": "inject_skinproj.py",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/inject_skinproj.py.gz",
-      "sha256": "b9a32b6ed353e051b24b20abea3e057373365d6e2753ecc03ad95f9877c531cd",
+      "sha256": "39c1917eb5bbf62aea01e20f548af6bf1982c23f2d8818db3730f254f8155a3a",
+      "gzip": true
+    },
+    {
+      "name": "forge_api.py",
+      "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/forge_api.py.gz",
+      "sha256": "fca41622496c0ff472031a59ca65882436c3ac0b1f7b8b750aa6544c67704274",
       "gzip": true
     }
   ]
