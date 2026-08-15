@@ -1,11 +1,11 @@
 {
-  "build": 16,
+  "build": 17,
   "min_exe_build": 1,
   "files": [
     {
       "name": "forge.html",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/forge.html.gz",
-      "sha256": "96d4aa26c3e45c7c69386fcd549f0de89b7a151a418f662baa2afee9660633e1",
+      "sha256": "52a5b23862f89e30629858919130e4b6f59e9244b1492b77ffdbdb1aff1bac5f",
       "gzip": true
     },
     {
@@ -53,7 +53,7 @@
     {
       "name": "forge_api.py",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/forge_api.py.gz",
-      "sha256": "fca41622496c0ff472031a59ca65882436c3ac0b1f7b8b750aa6544c67704274",
+      "sha256": "ada1bce63f26586df3e65b4d88eb296165c69f03a595835b8f52c17232ffb4ea",
       "gzip": true
     }
   ]
