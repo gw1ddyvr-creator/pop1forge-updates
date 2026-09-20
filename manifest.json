@@ -1,11 +1,11 @@
 {
-  "build": 59,
+  "build": 60,
   "min_exe_build": 1,
   "files": [
     {
       "name": "forge.html",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/forge.html.gz",
-      "sha256": "26ea073ea8559296944099235ddd51579aaaadd1754e6d15d33d2cd651ec0611",
+      "sha256": "b98b7c8ed868274be21860f9b4d7d35a34a424b1ce15d232abc23a5e961dae13",
       "gzip": true
     },
     {
