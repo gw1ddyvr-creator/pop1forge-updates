@@ -1,11 +1,11 @@
 {
-  "build": 60,
+  "build": 89,
   "min_exe_build": 1,
   "files": [
     {
       "name": "forge.html",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/forge.html.gz",
-      "sha256": "b98b7c8ed868274be21860f9b4d7d35a34a424b1ce15d232abc23a5e961dae13",
+      "sha256": "c9c61628b8510fb8ba8cd0a51b79f56917d37b3af82cb16a476f78d3f43e4a28",
       "gzip": true
     },
     {
@@ -47,13 +47,13 @@
     {
       "name": "inject_skinproj.py",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/inject_skinproj.py.gz",
-      "sha256": "39c1917eb5bbf62aea01e20f548af6bf1982c23f2d8818db3730f254f8155a3a",
+      "sha256": "a053f91f47bd069239805a81b172c0e574aedd472d6254a44b42d912a4421698",
       "gzip": true
     },
     {
       "name": "forge_api.py",
       "url": "https://raw.githubusercontent.com/gw1ddyvr-creator/pop1forge-updates/main/forge_api.py.gz",
-      "sha256": "4699a0e9f514f128dd14cbab425d2bdd6c098e8ba37456953d2efea13c4992b5",
+      "sha256": "e57d9b5639a681fba2dd97d42773c0d12b87fa42d588d92acdcdc3efba92d9a7",
       "gzip": true
     }
   ]
